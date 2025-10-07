@@ -1,2 +1,14 @@
-*.ipynb filter=clean_ipynb
+# ============================================================
+# Git attributes for the FetalCry project
+# ------------------------------------------------------------
+# This configuration ensures consistent behaviour for notebooks
+# used both in JupyterLab (local macOS) and Google Colab.
+#
+#  - Prevents filename case conflicts between macOS and GitHub
+#  - Disables diff/merge on Jupyter notebooks (they're JSON)
+#  - Normalizes line endings (LF)
+#  - Works around Colab occasionally creating lowercase filenames
+# ============================================================
+
 Damped_harmonic_oscillator.ipynb text eol=lf -diff -merge
+*.ipynb filter=clean_ipynb
