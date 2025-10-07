@@ -1,0 +1,11 @@
+# --- Ignore temporary and duplicate notebooks ---
+damped_harmonic_oscillator.ipynb
+Untitled*.ipynb
+.ipynb_checkpoints/
+*.bak
+*.tmp
+
+# --- Common Jupyter / Colab outputs ---
+*.log
+*.pyc
+.DS_Store
