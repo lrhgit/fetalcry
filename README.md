@@ -6,7 +6,6 @@ biomechanical modeling of **vocal fold dynamics**, inspired by the *Fetal Cry* p
 The interactive notebook below illustrates how damping, stiffness, and mass influence  
 oscillatory motion and energy dissipation – fundamental aspects of vibration behavior in  
 soft-tissue and airflow coupling systems such as the human larynx.
-
 ---
 
 ## ▶️ Open the interactive notebook in Google Colab
