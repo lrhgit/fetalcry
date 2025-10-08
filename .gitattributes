@@ -11,4 +11,3 @@
 # ============================================================
 
 Damped_harmonic_oscillator.ipynb text eol=lf -diff -merge
-*.ipynb filter=clean_ipynb
