@@ -1,5 +1,4 @@
 # --- Ignore temporary and duplicate notebooks ---
-damped_harmonic_oscillator.ipynb
 Untitled*.ipynb
 .ipynb_checkpoints/
 *.bak
