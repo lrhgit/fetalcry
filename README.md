@@ -10,7 +10,7 @@ soft-tissue and airflow coupling systems such as the human larynx.
 
 ## ▶️ Open the interactive notebook in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/github/lrhgit/fetalcry/blob/main/Damped_harmonic_oscillator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lrhgit/fetalcry/blob/main/Damped_harmonic_oscillator.ipynb)
 
 **How to use**
 1. Click the button above to open the notebook directly in Google Colab.  
